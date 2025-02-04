@@ -25,7 +25,7 @@ public class ApiAction extends BaseController {
     }
 
     public String getLogin() {
-        return true;
+        return false;
     }
 
     public void setLogin(String login) {
